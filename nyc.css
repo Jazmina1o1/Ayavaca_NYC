@@ -54,3 +54,21 @@ nav{
 .nav-item a:active{
     color:  #baef65cf;
 }
+
+.farmer{
+    float: right; 
+    size: 348px 348px;
+   margin: 10px;
+    width: 240px;
+}
+.green{
+    float: right; 
+    size: 614px 322px;
+   margin: 10px;
+    width: 250px;
+}
+
+
+/*margin: 15px; all the same
+    margin: 105px 50px; /* top/bottom left/right */
+   /* margin: 15px 10px 5px 20px; /* top right bottom left */
